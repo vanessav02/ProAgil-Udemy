@@ -1,0 +1,6 @@
+Explicou sobre os 3 tipos de projetos:
+ProAgil.API
+ProAgil.MVC
+ProAgil.Web
+
+No curso vai usar o webAPI
